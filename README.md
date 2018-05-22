@@ -5,6 +5,7 @@ You can use the [editor on GitHub](https://github.com/kurilkin/test/edit/master/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 https://github.com/kurilkin/test/issues/new
+[a relative link](second.md)
 
 ### Markdown
 
